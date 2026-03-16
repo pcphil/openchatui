@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills:*)",
+      "Bash(find:*)",
+      "WebSearch",
+      "Bash(which cargo:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npx vite:*)",
+      "Bash(cd:*)",
+      "Bash(cargo check:*)",
+      "Bash(npx tauri:*)",
+      "Bash(npx tsc:*)",
+      "Bash(\"C:\\\\Users\\\\Phil\\\\AppData\\\\Local\\\\OpenCode\\\\opencode-cli.exe\" --help 2>&1 | head -100)",
+      "Bash(grep:*)",
+      "Bash(git rm:*)",
+      "Bash(git status:*)"
+    ]
+  }
+}
